@@ -8,7 +8,7 @@ body {
 .banner {
   text-align: center;
   font-size: 30px;
-  background: color url("imgs/pattern.png") others;
+  background-color: lightgreen;
 }
 /* NAVIGATION BAR */
 ul {
@@ -44,5 +44,5 @@ li a:hover{
   color: black;
 }
 .active:hover {
-  background-color: lightgreen;
+  background-color: #E75480;
 }
