@@ -37,7 +37,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color: grey;
+  background-color: lightgreen;
 }
 .active {
   background-color: purple;
